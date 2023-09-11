@@ -1,0 +1,15 @@
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.csproj.AssemblyReference.cache
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.AssemblyInfoInputs.cache
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.AssemblyInfo.cs
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.csproj.CoreCompileInputs.cache
+C:\Users\99455\Desktop\Lesson5\Task60\bin\Debug\net7.0\Task60.exe
+C:\Users\99455\Desktop\Lesson5\Task60\bin\Debug\net7.0\Task60.deps.json
+C:\Users\99455\Desktop\Lesson5\Task60\bin\Debug\net7.0\Task60.runtimeconfig.json
+C:\Users\99455\Desktop\Lesson5\Task60\bin\Debug\net7.0\Task60.dll
+C:\Users\99455\Desktop\Lesson5\Task60\bin\Debug\net7.0\Task60.pdb
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.dll
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\refint\Task60.dll
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.pdb
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\Task60.genruntimeconfig.cache
+C:\Users\99455\Desktop\Lesson5\Task60\obj\Debug\net7.0\ref\Task60.dll
